@@ -35,11 +35,11 @@ label {
 }
 
 label[for=opcao-bolos]{
-    background-image: url(images/icone-bolos.svg);
+    background-image: url(https://img.icons8.com/doodle/48/000000/cake--v1.png);
 }
 
 label[for=opcao-bebidas]{
-    background-image: url(images/icone-bebidas.svg);
+    background-image: url(https://img.icons8.com/color/30/000000/beer-bottle.png);
 }
 
 input[type=radio]:checked + label{
