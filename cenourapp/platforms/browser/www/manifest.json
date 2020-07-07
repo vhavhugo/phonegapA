@@ -1,0 +1,11 @@
+{
+  "background_color": "#FFF",
+  "display": "standalone",
+  "name": "Hugo do Valle Só de Cenoura",
+  "short_name": "Hugo do Valle Só de Cenoura",
+  "version": "org.hugodovalle.cenourapp",
+  "description": "A sample Apache Cordova application that responds to the deviceready event.",
+  "author": "Hugo do Valle",
+  "icons": [],
+  "start_url": "index.html"
+}
